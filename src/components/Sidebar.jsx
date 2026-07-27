@@ -71,7 +71,7 @@ const Sidebar = ({ isOpen, onClose }) => {
         {/* Bottom card - static, just for the look */}
         <div className="p-4">
           <div className="rounded-xl bg-white/10 p-4">
-            <p className="text-sm font-semibold">Session 2024-25</p>
+            <p className="text-sm font-semibold">Session 2026-27</p>
             <p className="mt-1 text-xs text-brand-200">
               Admissions open till 30 Sep
             </p>
